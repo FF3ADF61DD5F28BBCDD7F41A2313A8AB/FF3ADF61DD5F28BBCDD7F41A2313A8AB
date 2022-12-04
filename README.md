@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">Всем привет</a> </h2>
 
-<!--
-**FF3ADF61DD5F28BBCDD7F41A2313A8AB/FF3ADF61DD5F28BBCDD7F41A2313A8AB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Меня зовут Кирилл. </p>
+<p>Я из Оренбурга.</p>
+<p>Изучаю программирование, веб, бэкенд.</p>
+<p>Стек python и django.</p>
+<p>Некоторое время работал в сфере ИБ.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+<a href="https://t.me/D869774BBE662DF60A6040999BDB229" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="daniilshat" height="40" width="80" /></a>
+<a href="popovkd256@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="daniilshat" height="40" width="80" /></a>
